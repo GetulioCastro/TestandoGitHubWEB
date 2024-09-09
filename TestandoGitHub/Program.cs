@@ -14,6 +14,8 @@ namespace TestandoGitHub
             Console.Write("Qual seu primeiro nome? ");
             Console.ReadLine();
 
+            Console.Write("Qual seu melhor e-mail? ");
+            Console.ReadLine();
         }
     }
 }
